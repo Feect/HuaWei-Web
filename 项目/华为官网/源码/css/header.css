@@ -1,0 +1,46 @@
+header{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    line-height: 10px;
+    overflow: hidden;
+}
+.top{
+    width: 1200px;
+    margin: auto;
+    
+}
+.left li{
+    float: left;
+    color: darkgray;
+    padding: 0px 10px;
+    font-size: 12px;
+    border-right: 1px solid darkgray;
+}
+.left a{
+    font-size: 12px;
+    color: darkgray;
+}
+.left a:hover{
+    color: #fff;
+}
+
+
+.right li{
+    float: right;
+    color: darkgray;
+    padding: 0px 10px;
+    font-size: 12px;
+    border-right: 1px solid darkgray;
+}
+.right a{
+    font-size: 12px;
+    color: darkgray;
+}
+.right a:hover{
+    color: #fff;
+}
+
+.top .last{
+    border-right: none;
+}

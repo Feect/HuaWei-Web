@@ -1,0 +1,13 @@
+footer{
+    width: 1200px;
+    margin: auto;
+    background-color: #fff;
+    overflow: hidden;
+}
+.fTop a{
+    color: black;
+}
+.fTop li{
+    float: left;
+    padding: 30px 60px;
+}
